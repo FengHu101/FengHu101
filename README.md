@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FengHu101
 - 👀 I’m interested in Web developer
-- 🌱 I’m currently learning p5.js
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
